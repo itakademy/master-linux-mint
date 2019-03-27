@@ -168,8 +168,8 @@
             "nemo.desktop"
         ],
         "value": [
-            "firefox.desktop",
             "org.gnome.Terminal.desktop",
+            "firefox.desktop",
             "nemo.desktop"
         ]
     },
